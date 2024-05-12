@@ -2,7 +2,7 @@ from openpyxl import load_workbook
 from docx import Document 
 from datetime import datetime
 #passar os arquivos da planilha para o arquivo word
-planilha_fornecedores = load_workbook("./fornecedores.xlsx")
+planilha_fornecedores = load_workbook("./fornecedores(1).xlsx")
 pagina_fornecedores = planilha_fornecedores["Sheet 1"]
 
 for linha in pagina_fornecedores.iter_rows(min_row = 2, values_only = True):
