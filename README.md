@@ -9,6 +9,11 @@
 
 ** Automação de Contratos é um projeto que lê células em uma planilha e as inclui em campos especificos de um contrato de prestação de serviço.
 
+## Requisitos 
+Openpyxl //
+Python-docx
+
+
 ## Como Contribuir
 
 Nós adoramos contribuições! Se quiser contribuir para o projeto, por favor, siga estas etapas:
