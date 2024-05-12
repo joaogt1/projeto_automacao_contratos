@@ -2,10 +2,7 @@
 
 ![Logo do Projeto](link-para-o-logo)
 
-[![License](link-para-a-license)](link-para-a-license)
-[![Build Status](link-para-o-status-de-build)](link-para-o-status-de-build)
-[![Contributors](link-para-contribuidores)](link-para-contribuidores)
-
+[![License](https://github.com/joaogt1/projeto_automacao_contratos/blob/main/LICENSE)](https://github.com/joaogt1/projeto_automacao_contratos/blob/main/LICENSE)
 ---
 
 ## Descrição
